@@ -4,207 +4,165 @@
     "type": "split",
     "children": [
       {
-        "id": "a72d55285a2f4f99",
+        "id": "a9c442109ffacb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7eee63be6c8d19",
+            "id": "939e6bf42a5af1ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/10 - Residual Connections and Layer Normalization.md.md",
+                "file": "07 - RAG/01. Why LLMs Need RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Residual Connections and Layer Normalization.md"
+              "title": "01. Why LLMs Need RAG"
             }
           },
           {
-            "id": "aceb823c9f4a419b",
+            "id": "575947c94eab4abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/11 - Encoder vs Decoder.md.md",
+                "file": "07 - RAG/02 - The Complete RAG Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Encoder vs Decoder.md"
+              "title": "02 - The Complete RAG Pipeline"
             }
           },
           {
-            "id": "67dff0164684ede6",
+            "id": "1ed2249b32b381fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/12 - Encoder Block.md.md",
+                "file": "07 - RAG/03. Indexing Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Encoder Block.md"
+              "title": "03. Indexing Pipeline"
             }
           },
           {
-            "id": "38291fab8fc330a8",
+            "id": "a773ae121fe2c3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/07 - Scaled Dot-Product Attention.md.md",
+                "file": "07 - RAG/04. Text Embeddings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Scaled Dot-Product Attention.md"
+              "title": "04. Text Embeddings"
             }
           },
           {
-            "id": "5973504a7b045a4e",
+            "id": "e9bec04f37932394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/10 - Residual Connections and Layer Normalization.md.md",
+                "file": "07 - RAG/05. Similarity Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Residual Connections and Layer Normalization.md"
+              "title": "05. Similarity Search"
             }
           },
           {
-            "id": "1364c997d9441d42",
+            "id": "81aaf2013b57c50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/12 - Encoder Block.md.md",
+                "file": "07 - RAG/06. Chunking Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Encoder Block.md"
+              "title": "06. Chunking Strategies"
             }
           },
           {
-            "id": "6b0de42f951ffb3f",
+            "id": "34ee3278d34bb100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/13 - Decoder Block.md.md",
+                "file": "07 - RAG/07. Vector Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Decoder Block.md"
+              "title": "07. Vector Databases"
             }
           },
           {
-            "id": "3800018569f5e856",
+            "id": "b441192b8a10a0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/14 - Encoder vs Decoder.md.md",
+                "file": "07 - RAG/08. FAISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Encoder vs Decoder.md"
+              "title": "08. FAISS"
             }
           },
           {
-            "id": "1958bbb5d255d953",
+            "id": "304329b8175f1a66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/15 - BERT Architecture.md.md",
+                "file": "07 - RAG/09. ChromaDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 - BERT Architecture.md"
+              "title": "09. ChromaDB"
             }
           },
           {
-            "id": "3c1f5119acde8cd2",
+            "id": "9223a362f05e24cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/16 - GPT Architecture.md.md",
+                "file": "07 - RAG/10. Pinecone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - GPT Architecture.md"
+              "title": "10. Pinecone"
             }
           },
           {
-            "id": "0daff83fed2905f1",
+            "id": "f0a1a90721a5a65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/17 - Encoder-Decoder Models (T5 & BART).md.md",
+                "file": "07 - RAG/11. Retrievers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 - Encoder-Decoder Models (T5 & BART).md"
-            }
-          },
-          {
-            "id": "f130151aa0265c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Transformers & LLM Foundations/18 - Causal Masking.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18 - Causal Masking.md"
-            }
-          },
-          {
-            "id": "92861c1458eb2576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Transformers & LLM Foundations/19 - KV Cache.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 - KV Cache.md"
-            }
-          },
-          {
-            "id": "8c3b6b40884c63e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Transformers & LLM Foundations/20 - Mini Project - Build a Transformer Block in PyTorch.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20 - Mini Project - Build a Transformer Block in PyTorch.md"
+              "title": "11. Retrievers"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -282,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/20 - Mini Project - Build a Transformer Block in PyTorch.md.md",
+                "file": "07 - RAG/11. Retrievers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/20 - Mini Project - Build a Transformer Block in PyTorch.md.md",
+                "file": "07 - RAG/11. Retrievers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -344,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Transformers & LLM Foundations/20 - Mini Project - Build a Transformer Block in PyTorch.md.md",
+                "file": "07 - RAG/11. Retrievers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -372,32 +330,35 @@
   },
   "active": "6c2d04c105c5d92d",
   "lastOpenFiles": [
-    "04 - Transformers & LLM Foundations/19 - KV Cache.md.md",
-    "04 - Transformers & LLM Foundations/20 - Mini Project - Build a Transformer Block in PyTorch.md.md",
-    "04 - Transformers & LLM Foundations/18 - Causal Masking.md.md",
-    "04 - Transformers & LLM Foundations/17 - Encoder-Decoder Models (T5 & BART).md.md",
-    "04 - Transformers & LLM Foundations/17 - Mini Project - Build Self-Attention in PyTorch.md.md",
-    "04 - Transformers & LLM Foundations/16 - KV Cache.md.md",
-    "04 - Transformers & LLM Foundations/15 - Causal Masking.md.md",
-    "04 - Transformers & LLM Foundations/16 - GPT Architecture.md.md",
-    "04 - Transformers & LLM Foundations/15 - BERT Architecture.md.md",
-    "04 - Transformers & LLM Foundations/14 - Encoder vs Decoder.md.md",
-    "04 - Transformers & LLM Foundations/14 - Encoder-Decoder Models (T5 BART).md.md",
-    "04 - Transformers & LLM Foundations/13 - Decoder Block.md.md",
-    "04 - Transformers & LLM Foundations/12 - Encoder Block.md.md",
-    "04 - Transformers & LLM Foundations/13 - Encoder-Only Models (BERT).md.md",
-    "04 - Transformers & LLM Foundations/11 - Layer Normalization.md.md",
-    "04 - Transformers & LLM Foundations/10 - Residual Connections and Layer Normalization.md.md",
-    "04 - Transformers & LLM Foundations/09 - Feed Forward Networks.md.md",
-    "04 - Transformers & LLM Foundations/08 - Multi-Head Attention.md.md",
-    "04 - Transformers & LLM Foundations/07A - Manual Attention Calculation.md.md",
-    "04 - Transformers & LLM Foundations/07 - Scaled Dot-Product Attention.md.md",
-    "04 - Transformers & LLM Foundations/06 - Query, Key, and Value (QKV).md.md",
-    "04 - Transformers & LLM Foundations/05 - Self-Attention.md.md",
-    "04 - Transformers & LLM Foundations/04 - Embeddings and Positional Encoding.md.md",
-    "04 - Transformers & LLM Foundations/03 - Tokens and Tokenization.md.md",
-    "04 - Transformers & LLM Foundations/02 - The Transformer Architecture.md.md",
-    "04 - Transformers & LLM Foundations/01 - Why Transformers Changed NLP.md.md",
+    "07 - RAG/10. Pinecone.md",
+    "07 - RAG/11. Retrievers.md",
+    "07 - RAG/09. ChromaDB.md",
+    "07 - RAG/08. FAISS.md",
+    "07 - RAG/07. Vector Databases.md",
+    "07 - RAG/06. Chunking Strategies.md",
+    "07 - RAG/05. Similarity Search.md",
+    "07 - RAG/04. Text Embeddings.md",
+    "07 - RAG/03. Indexing Pipeline.md",
+    "07 - RAG/02 - The Complete RAG Pipeline.md",
+    "07 - RAG/01. Why LLMs Need RAG.md",
+    "06 - LLM Engineering/15. What's Next...md",
+    "07 - RAG",
+    "06 - LLM Engineering/14. Mini Project — Build a Local AI Assistant.md",
+    "06 - LLM Engineering/13. Inference Engines.md",
+    "06 - LLM Engineering/12. Modern Quantization Formats (GPTQ, AWQ & GGUF).md",
+    "06 - LLM Engineering/11. Quantization Techniques.md",
+    "06 - LLM Engineering/10. Quantization.md",
+    "06 - LLM Engineering/09. Efficient Inference.md",
+    "06 - LLM Engineering/08. Decoding Strategies.md",
+    "06 - LLM Engineering/07. LLM Inference Pipeline.md",
+    "06 - LLM Engineering/06. PEFT, LoRA & QLoRA.md",
+    "06 - LLM Engineering/05. RLHF & DPO.md",
+    "06 - LLM Engineering/04. Supervised Fine-Tuning (SFT).md",
+    "06 - LLM Engineering/03. Why Pretraining Isn't Enough.md",
+    "06 - LLM Engineering/02. Pretraining & Next Token Prediction.md",
+    "06 - LLM Engineering/1.7 - Backpropagation.md",
+    "06 - LLM Engineering",
+    "05 - Hugging Face Ecosystem",
     "04 - Transformers & LLM Foundations",
     "03 - AI-ML-NLP Foundations",
     "02 - PyTorch Fundamentals",
