@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "fb6964a13a30536c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2758124a2cde5262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fae7fd57a43bbaf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "757f43b7dc172bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "19dcf571665632bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2d04c105c5d92d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d422b28a8633491d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a36faad458af05d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdcdd7e6b00d4509",
+    "type": "split",
+    "children": [
+      {
+        "id": "751bb771f560a17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42ac04dc5ed94e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "937ff7d5d17804d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "20d667eb9804a0ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3e82dc3b0513e87",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f1c2fcc5553f99eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-08-01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6c2d04c105c5d92d",
+  "lastOpenFiles": [
+    "2026-08-01.md",
+    "01 - Machine Learning Foundations/08 - Derivatives & Chain Rule.md.md",
+    "01 - Machine Learning Foundations/10 - Backpropagation.md.md",
+    "00 - Curriculam/index.md.md",
+    "Index.md.md",
+    "01 - Machine Learning Foundations/09 - Gradient Descent.md.md",
+    "00 - Curriculam",
+    "Vectors & Matrices.md.md",
+    "01 - Machine Learning Foundations/06 - Softmax.md.md",
+    "01 - Machine Learning Foundations/05 - Probability & Distributions.md.md",
+    "01 - Machine Learning Foundations/04 - Cosine Similarity.md.md",
+    "01 - Machine Learning Foundations/03 - Vector Norms.md.md",
+    "01 - Machine Learning Foundations/02 - Dot Product.md.md",
+    "01 - Machine Learning Foundations/07 - Loss Functions.md.md",
+    "01 - Machine Learning Foundations/01 - Vectors, Matrices & Matrix Multiplication.md.md",
+    "01 - Machine Learning Foundations/Vector Example.md.md",
+    "Welcome.md",
+    "01 - Machine Learning Foundations"
+  ]
+}
