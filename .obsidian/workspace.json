@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c442109ffacb1f",
+        "id": "2f4713cbaa6a7b14",
         "type": "tabs",
         "children": [
           {
-            "id": "939e6bf42a5af1ab",
+            "id": "0ca07dd706d465ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/01. Why LLMs Need RAG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. Why LLMs Need RAG"
-            }
-          },
-          {
-            "id": "575947c94eab4abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/02 - The Complete RAG Pipeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - The Complete RAG Pipeline"
-            }
-          },
-          {
-            "id": "1ed2249b32b381fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/03. Indexing Pipeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03. Indexing Pipeline"
-            }
-          },
-          {
-            "id": "a773ae121fe2c3ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/04. Text Embeddings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. Text Embeddings"
-            }
-          },
-          {
-            "id": "e9bec04f37932394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/05. Similarity Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05. Similarity Search"
-            }
-          },
-          {
-            "id": "81aaf2013b57c50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/06. Chunking Strategies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06. Chunking Strategies"
-            }
-          },
-          {
-            "id": "34ee3278d34bb100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/07. Vector Databases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07. Vector Databases"
-            }
-          },
-          {
-            "id": "b441192b8a10a0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/08. FAISS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08. FAISS"
-            }
-          },
-          {
-            "id": "304329b8175f1a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/09. ChromaDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09. ChromaDB"
-            }
-          },
-          {
-            "id": "9223a362f05e24cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/10. Pinecone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Pinecone"
-            }
-          },
-          {
-            "id": "f0a1a90721a5a65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - RAG/11. Retrievers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Retrievers"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.30501556396484
   },
   "right": {
     "id": "cdcdd7e6b00d4509",
@@ -240,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - RAG/11. Retrievers.md",
+                "file": "45 - Prompt Failure Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - RAG/11. Retrievers.md",
+                "file": "45 - Prompt Failure Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -302,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - RAG/11. Retrievers.md",
+                "file": "45 - Prompt Failure Modes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,39 +185,41 @@
   },
   "active": "6c2d04c105c5d92d",
   "lastOpenFiles": [
-    "07 - RAG/10. Pinecone.md",
-    "07 - RAG/11. Retrievers.md",
-    "07 - RAG/09. ChromaDB.md",
-    "07 - RAG/08. FAISS.md",
-    "07 - RAG/07. Vector Databases.md",
-    "07 - RAG/06. Chunking Strategies.md",
-    "07 - RAG/05. Similarity Search.md",
-    "07 - RAG/04. Text Embeddings.md",
-    "07 - RAG/03. Indexing Pipeline.md",
-    "07 - RAG/02 - The Complete RAG Pipeline.md",
-    "07 - RAG/01. Why LLMs Need RAG.md",
-    "06 - LLM Engineering/15. What's Next...md",
+    "44 - Production Prompt Patterns.md",
+    "45 - Prompt Failure Modes.md",
+    "10 - Prompt & Context Engineering/43 - Monitoring Prompt Quality.md",
+    "10 - Prompt & Context Engineering/42 - Prompt A B Testing.md",
+    "10 - Prompt & Context Engineering/41 - Prompt Templates.md",
+    "10 - Prompt & Context Engineering/40 - Prompt Versioning.md",
+    "10 - Prompt & Context Engineering/39 - Latency Trade-offs.md",
+    "10 - Prompt & Context Engineering/38 - Cost vs Accuracy Trade-offs.md",
+    "10 - Prompt & Context Engineering/37 - DSPy (Conceptual).md",
+    "10 - Prompt & Context Engineering/36 - Prompt Optimization.md",
+    "10 - Prompt & Context Engineering/35 - Prompt Evaluation.md",
+    "10 - Prompt & Context Engineering/34 - Prompt Sandboxing.md",
+    "10 - Prompt & Context Engineering/33 - Defensive Prompting.md",
+    "10 - Prompt & Context Engineering/32 - Jailbreaks.md",
+    "10 - Prompt & Context Engineering/31 - Indirect Prompt Injection.md",
+    "10 - Prompt & Context Engineering/30 - Direct Prompt Injection.md",
+    "10 - Prompt & Context Engineering/29 - Prompt Injection.md",
+    "10 - Prompt & Context Engineering/28 - Context Prioritization.md",
+    "10 - Prompt & Context Engineering/21 - Tool Calling Prompts.md.md",
+    "10 - Prompt & Context Engineering/20 - Function Calling Prompts.md.md",
+    "10 - Prompt & Context Engineering/27 - Context Compression.md",
+    "10 - Prompt & Context Engineering/26 - Tool Outputs as Context.md",
+    "10 - Prompt & Context Engineering/25 - Conversation Memory.md",
+    "10 - Prompt & Context Engineering/24 - Retrieval Context (RAG as Context).md",
+    "10 - Prompt & Context Engineering/23 - What is Context Engineering.md",
+    "10 - Prompt & Context Engineering/22 - Structured Output Schemas.md",
+    "10 - Prompt & Context Engineering",
+    "RAG Project - 3(Using llamaindex)",
+    "09 - RAG Project - 2 (Using Langchain)",
+    "08 - RAG Project - 1",
     "07 - RAG",
-    "06 - LLM Engineering/14. Mini Project — Build a Local AI Assistant.md",
-    "06 - LLM Engineering/13. Inference Engines.md",
-    "06 - LLM Engineering/12. Modern Quantization Formats (GPTQ, AWQ & GGUF).md",
-    "06 - LLM Engineering/11. Quantization Techniques.md",
-    "06 - LLM Engineering/10. Quantization.md",
-    "06 - LLM Engineering/09. Efficient Inference.md",
-    "06 - LLM Engineering/08. Decoding Strategies.md",
-    "06 - LLM Engineering/07. LLM Inference Pipeline.md",
-    "06 - LLM Engineering/06. PEFT, LoRA & QLoRA.md",
-    "06 - LLM Engineering/05. RLHF & DPO.md",
-    "06 - LLM Engineering/04. Supervised Fine-Tuning (SFT).md",
-    "06 - LLM Engineering/03. Why Pretraining Isn't Enough.md",
-    "06 - LLM Engineering/02. Pretraining & Next Token Prediction.md",
-    "06 - LLM Engineering/1.7 - Backpropagation.md",
     "06 - LLM Engineering",
     "05 - Hugging Face Ecosystem",
     "04 - Transformers & LLM Foundations",
     "03 - AI-ML-NLP Foundations",
-    "02 - PyTorch Fundamentals",
-    "00 - Curriculam",
-    "01 - Machine Learning Foundations"
+    "02 - PyTorch Fundamentals"
   ]
 }
