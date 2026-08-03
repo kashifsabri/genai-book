@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f4713cbaa6a7b14",
+        "id": "1f12bb37d7e57b34",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca07dd706d465ba",
+            "id": "86d055d5b98e5b65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "45 - Prompt Failure Modes.md",
+                "file": "11 - Agentic AI/Part 5 - Agent Architectures/34 - Planner–Executor Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "45 - Prompt Failure Modes.md",
+                "file": "11 - Agentic AI/Part 5 - Agent Architectures/34 - Planner–Executor Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "45 - Prompt Failure Modes.md",
+                "file": "11 - Agentic AI/Part 5 - Agent Architectures/34 - Planner–Executor Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,41 +185,41 @@
   },
   "active": "6c2d04c105c5d92d",
   "lastOpenFiles": [
-    "44 - Production Prompt Patterns.md",
-    "45 - Prompt Failure Modes.md",
-    "10 - Prompt & Context Engineering/43 - Monitoring Prompt Quality.md",
-    "10 - Prompt & Context Engineering/42 - Prompt A B Testing.md",
-    "10 - Prompt & Context Engineering/41 - Prompt Templates.md",
-    "10 - Prompt & Context Engineering/40 - Prompt Versioning.md",
-    "10 - Prompt & Context Engineering/39 - Latency Trade-offs.md",
-    "10 - Prompt & Context Engineering/38 - Cost vs Accuracy Trade-offs.md",
-    "10 - Prompt & Context Engineering/37 - DSPy (Conceptual).md",
-    "10 - Prompt & Context Engineering/36 - Prompt Optimization.md",
-    "10 - Prompt & Context Engineering/35 - Prompt Evaluation.md",
-    "10 - Prompt & Context Engineering/34 - Prompt Sandboxing.md",
-    "10 - Prompt & Context Engineering/33 - Defensive Prompting.md",
-    "10 - Prompt & Context Engineering/32 - Jailbreaks.md",
-    "10 - Prompt & Context Engineering/31 - Indirect Prompt Injection.md",
-    "10 - Prompt & Context Engineering/30 - Direct Prompt Injection.md",
-    "10 - Prompt & Context Engineering/29 - Prompt Injection.md",
-    "10 - Prompt & Context Engineering/28 - Context Prioritization.md",
-    "10 - Prompt & Context Engineering/21 - Tool Calling Prompts.md.md",
-    "10 - Prompt & Context Engineering/20 - Function Calling Prompts.md.md",
-    "10 - Prompt & Context Engineering/27 - Context Compression.md",
-    "10 - Prompt & Context Engineering/26 - Tool Outputs as Context.md",
-    "10 - Prompt & Context Engineering/25 - Conversation Memory.md",
-    "10 - Prompt & Context Engineering/24 - Retrieval Context (RAG as Context).md",
-    "10 - Prompt & Context Engineering/23 - What is Context Engineering.md",
-    "10 - Prompt & Context Engineering/22 - Structured Output Schemas.md",
-    "10 - Prompt & Context Engineering",
-    "RAG Project - 3(Using llamaindex)",
-    "09 - RAG Project - 2 (Using Langchain)",
-    "08 - RAG Project - 1",
-    "07 - RAG",
-    "06 - LLM Engineering",
-    "05 - Hugging Face Ecosystem",
-    "04 - Transformers & LLM Foundations",
-    "03 - AI-ML-NLP Foundations",
-    "02 - PyTorch Fundamentals"
+    "11 - Agentic AI/Part 5 - Agent Architectures/33 - Supervisor Pattern.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures/34 - Planner–Executor Pattern.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures/32 - Parallel Agent Architecture.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures/31 - Sequential Agent Architecture.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures/30 - Multi-Agent Architecture.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures/29 - Single-Agent Architecture.md",
+    "11 - Agentic AI/Part 4 - Tool use/28 - Parallel Tool Calling.md",
+    "11 - Agentic AI/Part 4 - Tool use/27 - Tool Error Handling.md",
+    "11 - Agentic AI/Part 4 - Tool use/26 - Tool Validation.md",
+    "11 - Agentic AI/Part 4 - Tool use/25 - Tool Execution.md",
+    "11 - Agentic AI/Part 4 - Tool use/24 - Tool Selection.md",
+    "11 - Agentic AI/Part 4 - Tool use/23 - Tool Registry.md",
+    "11 - Agentic AI/Part 4 - Tool use/22 - Why Agents Need Tools.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/21 - Vector Databases for Agent Memory.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/20 - Memory Storage.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/19 - Memory Retrieval Strategies.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/18 - Semantic Memory.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/17 - Episodic Memory.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/16 - Long-Term Memory.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/15 - Short-Term Memory.md",
+    "11 - Agentic AI/Part 3 - Memory-Systems/14 - Why Agents Need Memory.md",
+    "11 - Agentic AI/Part 2 - Planning-and-Reasoning/13 - Replanning.md",
+    "11 - Agentic AI/Part 2 - Planning-and-Reasoning/11 - Multi-Step Planning.md",
+    "11 - Agentic AI/Part 2 - Planning-and-Reasoning/10 - Single-Step Planning.md",
+    "11 - Agentic AI/Part 2 - Planning-and-Reasoning/09 - Planning Strategies.md",
+    "11 - Agentic AI/Part 2 - Planning-and-Reasoning/08 - Goal Analysis & Decomposition.md",
+    "11 - Agentic AI/Part 5 - Agent Architectures",
+    "11 - Agentic AI/Part 4 - Tool use",
+    "11 - Agentic AI/Part 11 - Production Agent Systems",
+    "11 - Agentic AI/Part 10 - MCP",
+    "11 - Agentic AI/Part 9 - Agent Frameworks",
+    "11 - Agentic AI/Part 8 - Agent Safety",
+    "11 - Agentic AI/Part 7 - Context & State Management",
+    "11 - Agentic AI/Part 6 - Agent-Communication",
+    "Part 5 - Agent-Architectures",
+    "Part 4 - Tool-Use"
   ]
 }
